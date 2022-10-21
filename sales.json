@@ -1,8 +1,8 @@
 {
-   "sale":false,
+   "sale":true,
    "img":"https://cdn.discordapp.com/avatars/964018424684613642/21d3645c61843fd2b5c304135ccfb634.webp?size=256",
    "h2":"A special offer for you",
-   "p":"Up to 25% off on all the items in online shop with coupon:",
-   "coupon":"SALE25",
+   "p":"Up to 40% off on all the items in online shop with coupon:",
+   "coupon":"RESMON40",
    "extra_css":""
 }
