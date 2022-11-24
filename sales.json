@@ -4,5 +4,5 @@
    "h2":"A special offer for you",
    "p":"Up to 40% off on all the items in online shop with coupon for only open source products:",
    "coupon":"BLACKFRIDAY40",
-   "extra_css":""
+   "extra_css":".discount {  background: linear-gradient(45deg, #0c6b72, transparent)!important;backdrop-filter: blur(10px); }"
 }
