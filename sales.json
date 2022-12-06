@@ -1,8 +1,8 @@
 {
    "sale":false,
    "img":"https://cdn.discordapp.com/avatars/964018424684613642/21d3645c61843fd2b5c304135ccfb634.webp?size=256",
-   "h2":"A special offer for you",
-   "p":"Up to 40% off on all the items in online shop with coupon for only open source products:",
-   "coupon":"BLACKFRIDAY40",
+   "h2":"New Year's sale storm has started on Wais products.",
+   "p":"There is a 25% discount on Open sources products and 15% discount on Escrow products:",
+   "coupon":"WAIS-CHRISTMAS-25 - WAIS-CHRISTMAS-15",
    "extra_css":".discount {  background: linear-gradient(45deg, #0c6b72, transparent)!important;backdrop-filter: blur(10px); }"
 }
